@@ -83,7 +83,7 @@
 
 - 📧 Email: karthikavula036@gmail.com  
 - 💼 LinkedIn:https://www.linkedin.com/in/avula-karthik/  
-- 🌐 Portfolio: (add if available)
+- 🌐 Portfolio: https://portfolio-zeta-neon-85.vercel.app/
 
 ---
 
