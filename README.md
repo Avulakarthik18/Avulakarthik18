@@ -81,8 +81,8 @@
 
 ## 🔗 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-profile  
+- 📧 Email: karthikavula036@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/avula-karthik/  
 - 🌐 Portfolio: (add if available)
 
 ---
